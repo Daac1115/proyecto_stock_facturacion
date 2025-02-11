@@ -1,0 +1,29 @@
+2025-02-08 14:57:21,373 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 14:57:23,843 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 14:59:01,460 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:01:08,115 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:05:00,860 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:05:05,300 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:05:57,246 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:05:58,249 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:06:08,271 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:06:54,112 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:06:55,410 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:16:39,671 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:16:44,315 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:16:46,130 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:16:52,411 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:17:23,616 - ERROR - Error al agregar cliente: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:17:26,801 - ERROR - Error al agregar cliente: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:28:01,542 - ERROR - Error al obtener clientes: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 15:28:21,513 - ERROR - Error al agregar cliente: 1054 (42S22): Unknown column 'nombre_apellidos' in 'field list'
+2025-02-08 17:24:05,294 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
+2025-02-08 17:24:10,733 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
+2025-02-08 17:24:15,623 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
+2025-02-08 17:24:25,058 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
+2025-02-08 17:39:26,164 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
+2025-02-08 17:52:31,693 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
+2025-02-08 17:55:40,264 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
+2025-02-08 18:05:54,914 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
+2025-02-08 18:09:24,596 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
+2025-02-08 19:09:12,027 - ERROR - Error al crear factura: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`stock_facturacion`.`facturas`, CONSTRAINT `facturas_ibfk_1` FOREIGN KEY (`usuario_id`) REFERENCES `usuarios` (`id`) ON DELETE CASCADE)
